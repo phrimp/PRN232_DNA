@@ -3301,23 +3301,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thaip\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\New folder\\SU25_PRN232_SE1730_ASM1_PhienNT_182962\\DNATest.APIServices.BE.PhienNT\\DNATest.APIServices.BE.PhienNT.csproj",
+      "projectUniqueName": "E:\\Work\\PRN232_DNA\\DNATest.APIServices.BE.PhienNT\\DNATest.APIServices.BE.PhienNT.csproj",
       "projectName": "DNATest.APIServices.BE.PhienNT",
-      "projectPath": "I:\\New folder\\SU25_PRN232_SE1730_ASM1_PhienNT_182962\\DNATest.APIServices.BE.PhienNT\\DNATest.APIServices.BE.PhienNT.csproj",
-      "packagesPath": "C:\\Users\\thaip\\.nuget\\packages\\",
-      "outputPath": "I:\\New folder\\SU25_PRN232_SE1730_ASM1_PhienNT_182962\\DNATest.APIServices.BE.PhienNT\\obj\\",
+      "projectPath": "E:\\Work\\PRN232_DNA\\DNATest.APIServices.BE.PhienNT\\DNATest.APIServices.BE.PhienNT.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "E:\\Work\\PRN232_DNA\\DNATest.APIServices.BE.PhienNT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\thaip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3326,15 +3326,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "I:\\New folder\\SU25_PRN232_SE1730_ASM1_PhienNT_182962\\DNATesting.Service.PhienNT\\DNATesting.Service.PhienNT.csproj": {
-              "projectPath": "I:\\New folder\\SU25_PRN232_SE1730_ASM1_PhienNT_182962\\DNATesting.Service.PhienNT\\DNATesting.Service.PhienNT.csproj"
+            "E:\\Work\\PRN232_DNA\\DNATesting.Service.PhienNT\\DNATesting.Service.PhienNT.csproj": {
+              "projectPath": "E:\\Work\\PRN232_DNA\\DNATesting.Service.PhienNT\\DNATesting.Service.PhienNT.csproj"
             }
           }
         }
@@ -3349,7 +3348,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -3383,7 +3382,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
