@@ -23,7 +23,7 @@ namespace DNATesting.Repository.PhienNT
             // return await _context.UserAccounts.FirstOrDefaultAsync(u => u.Phone == username && u.Password == password); -> phone
             // return await _context.UserAccounts.FirstOrDefaultAsync(u => u.EmployeeCode == username && u.Password == password);
 
-            return await _context.SystemUserAccounts.FirstOrDefaultAsync(u => u.Email == username && u.Password == password && u.IsActive == true);
+            return await _context.SystemUserAccounts.FirstOrDefaultAsync(u => u.UserName == username && u.Password == password);
         }
     }
 }

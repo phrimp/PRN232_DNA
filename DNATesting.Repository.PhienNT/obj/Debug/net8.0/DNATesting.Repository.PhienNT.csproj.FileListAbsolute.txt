@@ -12,3 +12,4 @@ I:\New folder\SU25_PRN232_SE1730_ASM1_PhienNT_182962\DNATesting.Repository.Phien
 I:\New folder\SU25_PRN232_SE1730_ASM1_PhienNT_182962\DNATesting.Repository.PhienNT\bin\Debug\net8.0\DNATesting.Repository.PhienNT.runtimeconfig.json
 I:\New folder\SU25_PRN232_SE1730_ASM1_PhienNT_182962\DNATesting.Repository.PhienNT\obj\Debug\net8.0\DNATesting.Repository.PhienNT.csproj.AssemblyReference.cache
 I:\New folder\SU25_PRN232_SE1730_ASM1_PhienNT_182962\DNATesting.Repository.PhienNT\obj\Debug\net8.0\DNATesting.Repository.PhienNT.genruntimeconfig.cache
+I:\New folder\SU25_PRN232_SE1730_ASM1_PhienNT_182962\DNATesting.Repository.PhienNT\obj\Debug\net8.0\DNATesting.Repository.PhienNT.sourcelink.json

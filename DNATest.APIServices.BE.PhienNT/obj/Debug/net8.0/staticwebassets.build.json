@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/WhE9UtMQqhZbsfAXZOWtCOkGzS5XU997SGYsuWfqcw=",
+  "Source": "DNATest.APIServices.BE.PhienNT",
+  "BasePath": "_content/DNATest.APIServices.BE.PhienNT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

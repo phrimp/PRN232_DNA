@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNATest.APIServices.BE.PhienNT.props" />
+</Project>

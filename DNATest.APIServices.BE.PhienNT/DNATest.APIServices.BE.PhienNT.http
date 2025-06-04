@@ -1,0 +1,6 @@
+@DNATest.APIServices.BE.PhienNT_HostAddress = http://localhost:5090
+
+GET {{DNATest.APIServices.BE.PhienNT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
